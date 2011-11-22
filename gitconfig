@@ -3,14 +3,14 @@
 
 [user]
     # User name for commits.
-    name = Oscar Korz
+    name = Wendy Nguyen
 
     # Email for commits.
-    email = okorz001@gmail.com
+    email = wnguyen.thuy@gmail.com
 
 [github]
     # Github account name.
-    user = okorz001
+    user = wnguyen
 
 [core]
     # Editor for commit messages.
